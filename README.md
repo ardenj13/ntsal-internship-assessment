@@ -66,6 +66,23 @@ You can see a live demo of this project at: [Demo Link](https://www.loom.com/sha
    npm start
    ```
 
+### Backend Test
+
+1. Navigate to the `/backend` directory:
+   ```
+   cd backend
+   ```
+
+2. Unit Tests:
+   ```
+   npm run test:unit
+   ```
+
+3. Integration Tests:
+   ```
+   npm run test:integration
+   ```
+
 ## API Endpoints
 
 ### 1. Shorten URL

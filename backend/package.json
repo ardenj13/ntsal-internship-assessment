@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "mocha",
     "test:unit": "mocha test/unit/**/*.test.js",
     "test:integration": "mocha test/integration/**/*.test.js"
